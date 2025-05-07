@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 Currently an **AI Engineer Intern at NewAI Vietna 🎓 3rd-year Computer Science Student at **University of Science – VNUHCM**
+- 🔭 Currently an **AI Engineer Intern** at NewAI Vietnam 🎓 3rd-year Computer Science Student at **University of Science – VNUHCM**
 - 🧠 Love working  **chatbots, retrieval systems, RAG pipelines, and smart agents**
 - 💬 Ask me about **FastAPI, LangChain, PhoBERT, Milvus, Docker, and Golang**
 - 📫 Reach me at: hokhanhduy324@gmail.com
