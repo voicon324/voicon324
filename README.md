@@ -7,7 +7,6 @@
 - 🧠 Love working  **chatbots, retrieval systems, RAG pipelines, and smart agents**
 - 💬 Ask me about **FastAPI, LangChain, PhoBERT, Milvus, Docker, and Golang**
 - 📫 Reach me at: hokhanhduy324@gmail.com
-- 🌐 My Portfolio: [GitHub Projects](https://github.cHoKhanhDuy324)
 
 ---
 
