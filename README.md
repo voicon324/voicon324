@@ -161,23 +161,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=voicon324&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=voicon324&theme=tokyonight&hide_border=true&background=0D1117"/>
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voicon324&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=voicon324&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer"/>
 </p>
